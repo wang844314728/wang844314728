@@ -5,10 +5,6 @@
   </a>
 </div>
 
-作者：JavaDog程序狗
-链接：https://juejin.cn/post/7286807849694576640
-来源：稀土掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 ![wang844314728's github activity graph](https://raw.githubusercontent.com/HuiDBK/HuiDBK/output/github-contribution-grid-snake.svg)
 - 👋 Hi, I’m ming
